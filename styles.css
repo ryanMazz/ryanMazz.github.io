@@ -1,0 +1,23 @@
+body{
+    color: rgb(255, 230, 0);
+    background: rgb(26, 26, 26);
+    font-family:'Times New Roman', Times, serif
+}
+h1{
+    color: white;
+    text-align: center;
+}
+h2{
+    color: white;
+}
+
+.assign{
+    display: flex;
+    padding: 10px;
+    margin: 10px;
+    background: rgb(26, 26, 26);
+}
+.assign img{
+    width: 200px;
+    padding: 10px;
+}
