@@ -12,11 +12,15 @@ h2{
 }
 
 .assign{
-    display: flex;
+    display: block;
     padding: 10px;
     margin: 10px;
     background: rgb(26, 26, 26);
+    width: 20%;
+    box-shadow: 8px 8px rgb(196, 180, 84)
+    border-radius: 20px
 }
+
 .assign img{
     width: 200px;
     padding: 10px;
